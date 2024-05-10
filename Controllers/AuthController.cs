@@ -16,7 +16,7 @@ namespace EcommerceCore.Controllers
 
         public AuthController()
         {
-            _connectionString = "server=localhost;database=e_commerce;user=root;password=root123";
+            _connectionString = "server=localhost;database=yourdatabase;user=youruser;password=yourpassword";
         }
 
         [HttpPost]

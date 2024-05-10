@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\EcommerceCore\\EcommerceCore\\EcommerceCore.csproj": {}
+    "/Users/salihkaankoc/Desktop/EcommerceCore/EcommerceCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\EcommerceCore\\EcommerceCore\\EcommerceCore.csproj": {
+    "/Users/salihkaankoc/Desktop/EcommerceCore/EcommerceCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\EcommerceCore\\EcommerceCore\\EcommerceCore.csproj",
+        "projectUniqueName": "/Users/salihkaankoc/Desktop/EcommerceCore/EcommerceCore.csproj",
         "projectName": "EcommerceCore",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\EcommerceCore\\EcommerceCore\\EcommerceCore.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\EcommerceCore\\EcommerceCore\\obj\\",
+        "projectPath": "/Users/salihkaankoc/Desktop/EcommerceCore/EcommerceCore.csproj",
+        "packagesPath": "/Users/salihkaankoc/.nuget/packages/",
+        "outputPath": "/Users/salihkaankoc/Desktop/EcommerceCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/salihkaankoc/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
